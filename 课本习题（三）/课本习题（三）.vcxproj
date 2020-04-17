@@ -84,7 +84,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)  _CRT_SECURE_NO_DEPRECATE</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
     <Link>
@@ -137,7 +137,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="课本习题（三）.cpp" />
+    <ClCompile Include="信贷限额计算器.c" />
+    <ClCompile Include="利息计算器.c" />
+    <ClCompile Include="工资计算器.c" />
+    <ClCompile Include="循环1到10.c" />
+    <ClCompile Include="查找最大数.c" />
+    <ClCompile Include="汽油里程.c" />
+    <ClCompile Include="表格输出.c" />
+    <ClCompile Include="销售佣金计算器.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
