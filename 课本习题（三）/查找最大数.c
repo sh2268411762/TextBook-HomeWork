@@ -1,6 +1,5 @@
 //#include "test.h"
 //
-//#define SIZE 128
 //int main()
 //{
 //	int arr[SIZE] = { 0 };

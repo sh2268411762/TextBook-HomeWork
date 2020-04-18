@@ -137,14 +137,29 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="世界人口增长计算器.c" />
+    <ClCompile Include="二进制转十进制.c" />
+    <ClCompile Include="判断输出.c" />
     <ClCompile Include="信贷限额计算器.c" />
     <ClCompile Include="利息计算器.c" />
+    <ClCompile Include="回文检测.c" />
     <ClCompile Include="工资计算器.c" />
     <ClCompile Include="循环1到10.c" />
+    <ClCompile Include="悬挂else(二）.c" />
+    <ClCompile Include="悬挂else.c" />
+    <ClCompile Include="判断三角形.c" />
+    <ClCompile Include="星号正方形.c" />
+    <ClCompile Include="星号空心正方形.c" />
+    <ClCompile Include="星号跳棋盘.c" />
+    <ClCompile Include="期望心律计算器.c" />
     <ClCompile Include="查找最大数.c" />
+    <ClCompile Include="查找最大的两个数.c" />
+    <ClCompile Include="检测10的倍数.c" />
     <ClCompile Include="汽油里程.c" />
+    <ClCompile Include="统计7的个数.c" />
     <ClCompile Include="表格输出.c" />
     <ClCompile Include="销售佣金计算器.c" />
+    <ClCompile Include="阶乘.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="test.h" />
