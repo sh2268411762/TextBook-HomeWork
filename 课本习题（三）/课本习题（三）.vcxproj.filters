@@ -89,5 +89,35 @@
     <ClCompile Include="期望心律计算器.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="用密码来保护个人隐私.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求一个整数序列的和及平均数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="求最小数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算整数的和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="复利程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="三角形打印程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算信贷限额.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="柱状图打印程序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="计算零售额.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="进制转换.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
