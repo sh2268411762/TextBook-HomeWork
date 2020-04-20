@@ -144,6 +144,7 @@
     <ClCompile Include="信贷限额计算器.c" />
     <ClCompile Include="利息计算器.c" />
     <ClCompile Include="回文检测.c" />
+    <ClCompile Include="圣诞节.c" />
     <ClCompile Include="复利程序.c" />
     <ClCompile Include="工资计算器.c" />
     <ClCompile Include="循环1到10.c" />
@@ -158,10 +159,12 @@
     <ClCompile Include="查找最大的两个数.c" />
     <ClCompile Include="柱状图打印程序.c" />
     <ClCompile Include="检测10的倍数.c" />
+    <ClCompile Include="毕达哥拉斯三元组.c" />
     <ClCompile Include="求一个整数序列的和及平均数.c" />
     <ClCompile Include="求最小数.c" />
     <ClCompile Include="汽油里程.c" />
     <ClCompile Include="用密码来保护个人隐私.c" />
+    <ClCompile Include="菱形打印程序.c" />
     <ClCompile Include="进制转换.c" />
     <ClCompile Include="统计7的个数.c" />
     <ClCompile Include="表格输出.c" />
