@@ -128,5 +128,23 @@
     <ClCompile Include="毕达哥拉斯三元组.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="库函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="停车收费.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数据的舍入.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="直角三角形斜边长.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="取幂.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分离整数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
