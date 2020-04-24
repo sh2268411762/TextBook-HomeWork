@@ -188,6 +188,7 @@
     <ClCompile Include="直角三角形斜边长.c" />
     <ClCompile Include="素数.c" />
     <ClCompile Include="菱形打印程序.c" />
+    <ClCompile Include="计算机辅助教学.c" />
     <ClCompile Include="进制转换.c" />
     <ClCompile Include="统计7的个数.c" />
     <ClCompile Include="表格输出.c" />

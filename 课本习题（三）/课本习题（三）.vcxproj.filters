@@ -209,5 +209,8 @@
     <ClCompile Include="全球变暖知识检测.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="计算机辅助教学.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
