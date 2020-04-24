@@ -176,5 +176,38 @@
     <ClCompile Include="猜数游戏.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="递归求幂.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔（非递归）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归求最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="递归的main()函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="两点之间的距离.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="乘法函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="测试数学库函数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="修改的Craps游戏.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="全球变暖知识检测.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

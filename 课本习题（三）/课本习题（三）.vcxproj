@@ -139,8 +139,11 @@
   <ItemGroup>
     <ClCompile Include="三角形打印程序.c" />
     <ClCompile Include="世界人口增长计算器.c" />
+    <ClCompile Include="两点之间的距离.c" />
     <ClCompile Include="二进制转十进制.c" />
+    <ClCompile Include="修改的Craps游戏.c" />
     <ClCompile Include="停车收费.c" />
+    <ClCompile Include="全球变暖知识检测.c" />
     <ClCompile Include="分离整数.c" />
     <ClCompile Include="判断输出.c" />
     <ClCompile Include="信贷限额计算器.c" />
@@ -149,6 +152,7 @@
     <ClCompile Include="回文检测.c" />
     <ClCompile Include="圣诞节.c" />
     <ClCompile Include="复利程序.c" />
+    <ClCompile Include="乘法函数.c" />
     <ClCompile Include="学生成绩的级点.c" />
     <ClCompile Include="完美数.c" />
     <ClCompile Include="工资计算器.c" />
@@ -161,6 +165,7 @@
     <ClCompile Include="投掷硬币.c" />
     <ClCompile Include="按秒计时.c" />
     <ClCompile Include="数据的舍入.c" />
+    <ClCompile Include="斐波那契数列.c" />
     <ClCompile Include="星号正方形.c" />
     <ClCompile Include="星号空心正方形.c" />
     <ClCompile Include="星号跳棋盘.c" />
@@ -173,7 +178,10 @@
     <ClCompile Include="毕达哥拉斯三元组.c" />
     <ClCompile Include="求一个整数序列的和及平均数.c" />
     <ClCompile Include="求最小数.c" />
+    <ClCompile Include="汉诺塔.c" />
+    <ClCompile Include="汉诺塔（非递归）.c" />
     <ClCompile Include="汽油里程.c" />
+    <ClCompile Include="测试数学库函数.c" />
     <ClCompile Include="温度转换.c" />
     <ClCompile Include="猜数游戏.c" />
     <ClCompile Include="用密码来保护个人隐私.c" />
@@ -187,6 +195,9 @@
     <ClCompile Include="计算整数的和.c" />
     <ClCompile Include="计算零售额.c" />
     <ClCompile Include="逆置整数.c" />
+    <ClCompile Include="递归求幂.c" />
+    <ClCompile Include="递归求最大公约数.c" />
+    <ClCompile Include="递归的main()函数.c" />
     <ClCompile Include="销售佣金计算器.c" />
     <ClCompile Include="阶乘.c" />
   </ItemGroup>
