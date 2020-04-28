@@ -1,6 +1,2 @@
-﻿  计算机辅助教学.c
-D:\git Code\TextBook-HouseWork\课本习题（三）\计算机辅助教学.c(3,1): warning C4005: “TEN”: 宏重定义
-D:\git Code\TextBook-HouseWork\课本习题（三）\test.h(14): message : 参见“TEN”的前一个定义
-D:\git Code\TextBook-HouseWork\课本习题（三）\计算机辅助教学.c(90,10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-D:\git Code\TextBook-HouseWork\课本习题（三）\计算机辅助教学.c(78): warning C4715: “Fun”: 不是所有的控件路径都返回值
+﻿  C-Point：7.5.c
   课本习题（三）.vcxproj -> D:\git Code\TextBook-HouseWork\课本习题（三）\x64\Debug\课本习题（三）.exe

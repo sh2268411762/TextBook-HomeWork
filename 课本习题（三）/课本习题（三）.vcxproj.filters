@@ -212,5 +212,17 @@
     <ClCompile Include="计算机辅助教学.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="C-Point：7.3.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C-Point：7.4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C-Point：7.5.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C-Point：模拟（龟兔赛跑）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
