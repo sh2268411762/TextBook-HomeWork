@@ -140,7 +140,8 @@
     <ClCompile Include="C-Point：7.3.c" />
     <ClCompile Include="C-Point：7.4.c" />
     <ClCompile Include="C-Point：7.5.c" />
-    <ClCompile Include="C-Point：模拟（龟兔赛跑）.c" />
+    <ClCompile Include="冒泡排序.c" />
+    <ClCompile Include="销售佣金.c" />
     <ClCompile Include="三角形打印程序.c" />
     <ClCompile Include="世界人口增长计算器.c" />
     <ClCompile Include="两点之间的距离.c" />

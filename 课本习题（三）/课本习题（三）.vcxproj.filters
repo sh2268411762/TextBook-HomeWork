@@ -221,7 +221,10 @@
     <ClCompile Include="C-Point：7.5.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="C-Point：模拟（龟兔赛跑）.c">
+    <ClCompile Include="销售佣金.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡排序.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
